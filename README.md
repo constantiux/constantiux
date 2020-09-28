@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world! 👋
 
 <!--
 **grrlic/grrlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Neil. Just a bit of spoiler, I am a super curious person in learning new technologies.
+
+- 🔭 I’m currently working on **data** analytics _RESTful_ **API**, made with **Python** and R (still considering)
+- 🌱 Learning is an infinite loop, and I'm currently focusing especially on NLP, _natural language processing_, and 've been doing well thanks to Stanford's and MIT's open courses
+- 👯 While doing personal side-projects is as fun, I'm looking for experiences in tech-integrated industries (finance, e-commerce) and definitely **#OpenToWork**
+- 💬 Ask me about anything related to machine learning, data, and even **algorithms**, really happy to collaborate ![](https://img.shields.io/twitter/follow/grrlic?label=Twitter&style=social)
+
+Meanwhile, I plan to actively maintain my personal **[blog](https://grrlic.xyz)** and I as well pretty active here on Github, also on **[CodeForces](https://codeforces.com/profile/grrlic)** and **[CodeChef](https://codechef.com/users/grrlic)**.
