@@ -38,4 +38,4 @@ Projects TODOs:
 
 |   |   |   |
 |---|---|---|
-| <ul><li>- [ ] &nbsp;</li> [Python related](https://grrlic.github.io "Please stay in tune..")| <ul><li>- [ ] <i>coming soon..</i></li> | <ul><li>- [ ] <i>coming soon..</i></li> |
+| <ul><li>- [ ] A* Path Search Algorithm Visualizer</li> [repo](https://github.com/grrlic/astar-pypathfinder "Implemented in Python with Pygame")| <ul><li>- [ ] <i>coming soon..</i></li> | <ul><li>- [ ] <i>coming soon..</i></li> |
