@@ -33,3 +33,9 @@ Meanwhile, I plan to actively maintain my personal **[blog](https://grrlic.xyz)*
 	<br>
 	<a href="https://www.kaggle.com/davydev"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="40" width="100" target="_blank"></a>
 </p>
+
+Projects TODOs:
+
+|   |   |   |
+|---|---|---|
+| <ul><li>- [ ] &nbsp;</li> [Python related](https://grrlic.github.io "Please stay in tune..")| <ul><li>- [ ] <i>coming soon..</i></li> | <ul><li>- [ ] <i>coming soon..</i></li> |
