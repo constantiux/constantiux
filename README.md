@@ -36,6 +36,12 @@ Meanwhile, I plan to actively maintain my personal **[blog](https://grrlic.xyz)*
 
 Projects TODOs:
 
-|   |   |   |
-|---|---|---|
-| <ul><li>- [ ] A* Path Search Algorithm Visualizer</li> [repo](https://github.com/grrlic/astar-pypathfinder "Implemented in Python with Pygame")| <ul><li>- [ ] <i>coming soon..</i></li> | <ul><li>- [ ] <i>coming soon..</i></li> |
+<table>
+<tbody>
+  <tr>
+    <td><ul><li>- [X] A* Path Search Algorithm Visualizer</li> <a href="https://github.com/grrlic/astar-pypathfinder" title="Implemented in Python with Pygame">repo</a></td>
+    <td><ul><li>- [X] Sudoku Solver in Java</li> <a href="https://github.com/grrlic/sudoku-solver" title="Implemented with Backtracking algorithm">repo</a></td>
+    <td><ul><li>- [ ] <i>coming soon..</i></li></td>
+  </tr>
+</tbody>
+</table>
