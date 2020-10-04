@@ -46,7 +46,5 @@ Meanwhile, I plan to actively maintain my personal **[blog](https://grrlic.xyz)*
 	<a href="https://www.linkedin.com/in/constantiusneil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="20" width="80" target="_blank"></a>
 	<br><img src="https://komarev.com/ghpvc/?username=grrlic" alt="grrlic" /><br>
 	<a href="https://www.kaggle.com/davydev"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="40" width="100" target="_blank"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=grrlic&show_icons=true" alt="grrlic" style="width:400px;height300px;"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrlic&layout=compact" alt="grrlic" style="width:400px;height300px;"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grrlic&layout=compact" alt="grrlic" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grrlic&show_icons=true" alt="grrlic" /></p>
