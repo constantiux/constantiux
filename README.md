@@ -21,7 +21,7 @@ This is Neil a.k.a. _`grrlic`_. TL;DR, I am a super curious person in learning n
 - 👯 While doing personal side-projects is as fun, I'm looking for experiences in tech-integrated industries (finance, e-commerce) and currently **#OpenToWork**
 - 💬 Ask me about anything related to machine learning, tradings and other finance related, always open to collaborate ![](https://img.shields.io/twitter/follow/grrlic?label=Twitter&style=social)
 
-Meanwhile, I plan to actively maintain my personal **[blog](https://grrlic.xyz)** and I as well pretty active here on Github.
+Currently, I am actively writing on my **[blog](https://dev.to/grrlic)**, about my projects and stuff. If you are interested, feel free to check it out!
 
 **Projects _TODOs_**:
 
