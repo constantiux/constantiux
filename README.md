@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 This is Neil a.k.a. _`grrlic`_. TL;DR, I am a super curious person in learning new technologies.
 
-- 🔭 I’m currently trying to utilize my spare time to work on some interesting small projects, preferably simple **API** x data analytics microservices rather than fullstack (Frontend + Backend), meanwhile using the languages that I've been learning for quite some time like `Python`, `Golang` and `Java`. These projects might revolve around algorithmic field, and I am thinking to add some machine learning elements as well, such as emotions analyzer (NLP) _maybe?_ Who knows ..φ(・∀・＊)
-- 👯 While doing personal side-projects is as fun, I'm looking for experiences in tech-integrated industries (finance, e-commerce) and definitely **#OpenToWork**
-- 💬 Ask me about anything related to machine learning, data, and even **algorithms**, really happy to collaborate ![](https://img.shields.io/twitter/follow/grrlic?label=Twitter&style=social)
+- 🔭 I’m currently trying to utilize my spare time to work on some interesting small projects, preferably simple **API** x data analytics microservices preferably written in `Python`, `Golang` and `C++`. These projects possibly involve statistics, analytics and recommender system.
+- 👯 While doing personal side-projects is as fun, I'm looking for experiences in tech-integrated industries (finance, e-commerce) and currently **#OpenToWork**
+- 💬 Ask me about anything related to machine learning, tradings and other finance related, always open to collaborate ![](https://img.shields.io/twitter/follow/grrlic?label=Twitter&style=social)
 
 Meanwhile, I plan to actively maintain my personal **[blog](https://grrlic.xyz)** and I as well pretty active here on Github.
 
