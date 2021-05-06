@@ -1,4 +1,5 @@
-### Hello, world! 👋 ![](https://www.codewars.com/users/grrlic/badges/micro) ![](https://static.leetcode-cn.com/cn-mono-assets/production/assets/profile-plus-tag.dabbe729.svg)
+### Hello, 世界! 👋 
+![](https://www.codewars.com/users/grrlic/badges/micro) ![](https://static.leetcode-cn.com/cn-mono-assets/production/assets/profile-plus-tag.dabbe729.svg)
 
 <!--
 **grrlic/grrlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Projects _TODOs_**:
+**Some *to-do*s**:
 
 <table>
 <tbody>
