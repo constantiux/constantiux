@@ -1,4 +1,4 @@
-### Hello, world! 👋 ![](https://www.codewars.com/users/grrlic/badges/micro)
+### Hello, world! 👋 ![](https://www.codewars.com/users/grrlic/badges/micro) ![](https://static.leetcode-cn.com/cn-mono-assets/production/assets/profile-plus-tag.dabbe729.svg)
 
 <!--
 **grrlic/grrlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
