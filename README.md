@@ -1,5 +1,5 @@
 ### Hello, 世界! 👋 
-![https://www.codewars.com/users/grrlic](https://www.codewars.com/users/grrlic/badges/micro) ![https://leetcode-cn.com/u/grrlic/](https://static.leetcode-cn.com/cn-mono-assets/production/assets/profile-plus-tag.dabbe729.svg)
+[![codewars](https://www.codewars.com/users/grrlic/badges/micro)](https://www.codewars.com/users/grrlic) [![leetcode](https://static.leetcode-cn.com/cn-mono-assets/production/assets/profile-plus-tag.dabbe729.svg)](https://leetcode-cn.com/u/grrlic/)
 
 <!--
 **grrlic/grrlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
