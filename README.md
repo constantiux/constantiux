@@ -1,5 +1,5 @@
 ### Hello, 世界! 👋 
-[![codewars](https://www.codewars.com/users/grrlic/badges/micro)](https://www.codewars.com/users/grrlic)
+[![codewars](https://www.codewars.com/users/constantiux/badges/micro)](https://www.codewars.com/users/constantiux)
 
 <!--
 **constantiux/constantiux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
