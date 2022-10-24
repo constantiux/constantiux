@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Some *to-do*s**:
+**Ongoing/Done *to-do*s**:
 
 <table>
 <tbody>
